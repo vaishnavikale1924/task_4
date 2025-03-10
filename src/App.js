@@ -4,7 +4,7 @@ import Product from './Product'
 import Gallery from './Gallery';
 import Student from './Student';
 import Books from './Books';
-
+import Flower from './Flower';
 function App() {
   return (
     <>
@@ -12,6 +12,7 @@ function App() {
     <Gallery/>
     <Student/>
     <Books/>
+    <Flower/>
     </>
   );
 }
